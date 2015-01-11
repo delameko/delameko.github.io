@@ -3,6 +3,7 @@ title: delameko
 email: matt@delameko.io
 description: "delameko - blog of mj slater"
 url: "http://delameko.io"
+baseurl: ""
 twitter_username: delameko
 github_username:  delameko
 facebook_username:  matthew.james.slater
