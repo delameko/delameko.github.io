@@ -1,16 +1,12 @@
 # Site settings
 title: delameko
-email: matt@delameko.io
-description: "delameko - blog of mj slater"
-url: "http://delameko.io"
-baseurl: ""
+email: admin@delameko.io
+description: >
+  This ain't my beautiful house
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://delameko.io" # the base hostname & protocol for your site
 twitter_username: delameko
 github_username:  delameko
-facebook_username:  matthew.james.slater
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
-permalink: pretty
-paginate: 5
-exclude: ["node_modules"]
